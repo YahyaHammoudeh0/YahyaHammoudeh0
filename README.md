@@ -1,5 +1,5 @@
 # 💫 About Me:
-I just finished interning at a game development company called LargeLabs and worked on a save system that uses multithreading and BSON serialization to save the game without stuttering.<br>I am developing a CRM leveraging AI to help businesses pair their most important clients with their best employees.<br>I am mainly interested in game development and business AI applications.<br>I am currently learning machine learning to work on research in optimizing smart grids.
+I just finished interning at a game development company called LargeLabs and worked on a save system that uses multithreading and BSON serialization to save the game without stuttering.<br>I am mainly interested in game development and business AI applications.<br>I am currently learning machine learning to work on research in optimizing smart grids.
 
 
 # 💻 Tech Stack:
